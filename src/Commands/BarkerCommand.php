@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Syndicate\Barker\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class BarkerCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'barker';
 
     public $description = 'My command';
 
